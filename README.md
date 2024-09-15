@@ -11,7 +11,9 @@
 
 ### Mis estadísticas de Codewars
 
-![Codewars Badge](https://img.shields.io/badge/Codewars-AnthonyArtavia-red?logo=codewars&style=for-the-badge)
+![Codewars](https://www.codewars.com/users/AnthonyArtavia/badges/large)
+![Codewars Badge](https://img.shields.io/badge/Codewars-AnthonyArtavia-blueviolet?logo=codewars&style=for-the-badge)
+
 
 
 ## 🏆 GitHub Trophies
