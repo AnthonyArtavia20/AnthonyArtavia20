@@ -9,6 +9,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AnthonyArtavia20&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnthonyArtavia20&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+### Mis estadísticas de Codewars
+
+![Codewars Badge](https://img.shields.io/badge/Codewars-AnthonyArtavia-red?logo=codewars&style=for-the-badge)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AnthonyArtavia20&theme=github_dark&no-frame=false&no-bg=false&margin-w=4)
 
